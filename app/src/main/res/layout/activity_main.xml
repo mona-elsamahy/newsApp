@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+tools:context=".MainActivity"
+android:orientation="vertical"
+android:background="#C8D51C0F"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+<ImageView
+        android:layout_width="410dp"
+        android:layout_height="400dp"
+        android:layout_gravity="center"
+        android:layout_margin="150dp"
+        app:srcCompat="@drawable/youm7"
+        android:id="@+id/logoImage"/>
+    </LinearLayout>
